@@ -59,3 +59,6 @@ python student_management.py
 ## 👨‍💻 Author
 
 **Muneeb**
+
+<img width="1920" height="1080" alt="sss 2" src="https://github.com/user-attachments/assets/ad2e0206-bac7-4b5f-8dc5-c52e8f137fb1" />
+<img width="1920" height="1080" alt="sss" src="https://github.com/user-attachments/assets/f409b3fc-db86-4487-a658-bbeb30e03858" />
